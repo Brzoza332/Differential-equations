@@ -10,17 +10,17 @@ This project is dedicated to mathematical epidemiological models that describe a
 - Advanced model of HIV/AIDS: A more complex model describing the dynamics of HIV/AIDS spread.
 - Analysis and numerical solution of the HIV/AIDS model: Detailed analysis and numerical solution of the model.
 ## Table of Contents
-- Kermack-McKendrick Model (SIR)
-- Analysis of the SIR Model
-- Numerical Solution of the SIR Model
-- SEIR Model
-- Specifics of Venereal Diseases
-- Basic Model of Venereal Diseases
-- Advanced Model of HIV/AIDS
-- Analysis of the HIV/AIDS Model
-- Numerical Solution of the HIV/AIDS Model
-- Conclusions
-- References
+- Kermack-McKendrick Model (SIR).
+- Analysis of the SIR Model.
+- Numerical Solution of the SIR Model.
+- SEIR Model.
+- Specifics of Venereal Diseases.
+- Basic Model of Venereal Diseases.
+- Advanced Model of HIV/AIDS.
+- Analysis of the HIV/AIDS Model.
+- Numerical Solution of the HIV/AIDS Model.
+- Conclusions.
+- References.
 ## Authors
 - Bartłomiej Brzozowski
 - Bartosz Cholewa
